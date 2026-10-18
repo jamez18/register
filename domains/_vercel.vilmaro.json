@@ -1,0 +1,10 @@
+{
+    "owner": {
+        "username": "jamez18",
+        "email": "jamesvilmaro@gmail.com"
+    },
+    "records": {
+        "TXT": "vc-domain-verify=vilmaro.is-a.dev,1d065fa44f4c5016f3d3",
+        "TXT": "vc-domain-verify=www.vilmaro.is-a.dev,2b6c82572b527cbb9520"
+    }
+}
